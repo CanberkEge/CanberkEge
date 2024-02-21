@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6500&lines=Hi+There!+👋;+I'm+Canberk+Ege+Erden!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Turkey</h3>
+<h3 align="center">A passionate software developer from Turkey who is also an Industrial Engineer and Video Editor.</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on Blockchain
+ 🔭 I’m currently working on **Blockchain.
  
  🌱 I’m currently learning **Solidity.
 
